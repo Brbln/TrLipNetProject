@@ -1,2 +1,1 @@
-"# BProje" 
-"#Trk‡e Dudak Okuma Projesi Kodlar" 
+"TÃ¼rkÃ§e Dudak Okuma Projesi KodlarÄ±" 
