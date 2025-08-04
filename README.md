@@ -1,10 +1,10 @@
-## Derin Öğrenme Tabanlı Türkçe Dudak Okuma Projesi
+# Derin Öğrenme Tabanlı Türkçe Dudak Okuma Projesi
 
 Bu proje, Türkçe konuşulan videolarda dudak hareketlerini analiz ederek konuşulan kelimeleri otomatik olarak tanımayı hedefleyen bir derin öğrenme ve dil işleme uygulamasıdır.
 
 ---
 
-## Proje Hakkında
+# Proje Hakkında
 
 - Dudak hareketlerinden ses tanımaya yönelik derin öğrenme ve görüntü işleme teknikleri kullanılır.  
 - Türkçe diline özgü dudak hareketleri üzerinde yoğunlaşır.  
@@ -13,7 +13,7 @@ Bu proje, Türkçe konuşulan videolarda dudak hareketlerini analiz ederek konu�
 
 ---
 
-## Özellikler
+# Özellikler
 
 - Video işleme ve dudak bölgesi tespiti  
 - Görüntü tabanlı dudak hareketlerinin analizi  
@@ -22,7 +22,7 @@ Bu proje, Türkçe konuşulan videolarda dudak hareketlerini analiz ederek konu�
 
 ---
 
-## Teknolojiler
+# Teknolojiler
 
 - Python  
 - OpenCV (görüntü işleme)  
@@ -32,17 +32,13 @@ Bu proje, Türkçe konuşulan videolarda dudak hareketlerini analiz ederek konu�
 ---
 
 
-
-# ENGLISH
-
-
-## Deep Learning Based Turkish Lip Reading Project
+# Deep Learning Based Turkish Lip Reading Project
 
 This project is a deep learning and language processing application designed to automatically recognize spoken words by analyzing lip movements in videos where Turkish is spoken.
 
 ---
 
-### About the Project
+## About the Project
 
 - Deep learning and computer vision techniques are used for speech recognition from lip movements.  
 - Focuses on lip movements specific to the Turkish language.  
@@ -51,7 +47,7 @@ This project is a deep learning and language processing application designed to 
 
 ---
 
-### Features
+## Features
 
 - Video processing and lip region detection  
 - Analysis of image-based lip movements  
@@ -60,7 +56,7 @@ This project is a deep learning and language processing application designed to 
 
 ---
 
-### Technologies
+## Technologies
 
 - Python  
 - OpenCV (computer vision)  
@@ -69,7 +65,7 @@ This project is a deep learning and language processing application designed to 
 
 ---
 
-### Installation
+## Installation
 
 1. Clone the repository  
    ```bash
