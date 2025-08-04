@@ -31,7 +31,10 @@ Bu proje, Türkçe konuşulan videolarda dudak hareketlerini analiz ederek konu�
 
 ---
 
+<br><br><br>
 
+# English
+<br>
 # Deep Learning Based Turkish Lip Reading Project
 
 This project is a deep learning and language processing application designed to automatically recognize spoken words by analyzing lip movements in videos where Turkish is spoken.
